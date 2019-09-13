@@ -28,7 +28,7 @@ namespace Fernando.TesteCouchBase.API.Controllers
             user.Id = "user::" + Guid.NewGuid().ToString();
             user.CountryCode = "DE";
             user.Password = "letmein";
-            user.UserName = "Rudolph ";
+            user.UserName = "Rudolph ".ToLower();
 
             _userRepository.Save(user);
 
