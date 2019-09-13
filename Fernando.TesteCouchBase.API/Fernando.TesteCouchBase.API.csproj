@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
+    <DockerDefaultTargetOS>Windows</DockerDefaultTargetOS>
+    <UserSecretsId>9f7a584f-5451-43fb-809c-b78cf46c45a9</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Couchbase.Extensions.DependencyInjection" Version="2.0.2" />
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.0.2105168" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Fernando.TesteCouchBase.Data\Fernando.TesteCouchBase.Data.csproj" />
+    <ProjectReference Include="..\Fernando.TesteCouchBase.Domain\Fernando.TesteCouchBase.Domain.csproj" />
+    <ProjectReference Include="..\Fernando.TesteCouchBase.IoC\Fernando.TesteCouchBase.IoC.csproj" />
+  </ItemGroup>
+
+</Project>

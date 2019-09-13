@@ -1,0 +1,14 @@
+C:\Users\ferncru\source\repos\Fernando.TesteCouchBase\Fernando.TesteCouchBase.IoC\bin\Debug\netcoreapp2.2\Fernando.TesteCouchBase.IoC.deps.json
+C:\Users\ferncru\source\repos\Fernando.TesteCouchBase\Fernando.TesteCouchBase.IoC\bin\Debug\netcoreapp2.2\Fernando.TesteCouchBase.IoC.dll
+C:\Users\ferncru\source\repos\Fernando.TesteCouchBase\Fernando.TesteCouchBase.IoC\obj\Debug\netcoreapp2.2\Fernando.TesteCouchBase.IoC.csproj.CoreCompileInputs.cache
+C:\Users\ferncru\source\repos\Fernando.TesteCouchBase\Fernando.TesteCouchBase.IoC\obj\Debug\netcoreapp2.2\Fernando.TesteCouchBase.IoC.AssemblyInfoInputs.cache
+C:\Users\ferncru\source\repos\Fernando.TesteCouchBase\Fernando.TesteCouchBase.IoC\obj\Debug\netcoreapp2.2\Fernando.TesteCouchBase.IoC.AssemblyInfo.cs
+C:\Users\ferncru\source\repos\Fernando.TesteCouchBase\Fernando.TesteCouchBase.IoC\bin\Debug\netcoreapp2.2\Fernando.TesteCouchBase.IoC.pdb
+C:\Users\ferncru\source\repos\Fernando.TesteCouchBase\Fernando.TesteCouchBase.IoC\bin\Debug\netcoreapp2.2\Fernando.TesteCouchBase.Data.dll
+C:\Users\ferncru\source\repos\Fernando.TesteCouchBase\Fernando.TesteCouchBase.IoC\bin\Debug\netcoreapp2.2\Fernando.TesteCouchBase.Domain.dll
+C:\Users\ferncru\source\repos\Fernando.TesteCouchBase\Fernando.TesteCouchBase.IoC\bin\Debug\netcoreapp2.2\Fernando.TesteCouchBase.Data.pdb
+C:\Users\ferncru\source\repos\Fernando.TesteCouchBase\Fernando.TesteCouchBase.IoC\bin\Debug\netcoreapp2.2\Fernando.TesteCouchBase.Domain.pdb
+C:\Users\ferncru\source\repos\Fernando.TesteCouchBase\Fernando.TesteCouchBase.IoC\obj\Debug\netcoreapp2.2\Fernando.TesteCouchBase.IoC.csprojAssemblyReference.cache
+C:\Users\ferncru\source\repos\Fernando.TesteCouchBase\Fernando.TesteCouchBase.IoC\obj\Debug\netcoreapp2.2\Fernando.TesteCouchBase.IoC.csproj.CopyComplete
+C:\Users\ferncru\source\repos\Fernando.TesteCouchBase\Fernando.TesteCouchBase.IoC\obj\Debug\netcoreapp2.2\Fernando.TesteCouchBase.IoC.dll
+C:\Users\ferncru\source\repos\Fernando.TesteCouchBase\Fernando.TesteCouchBase.IoC\obj\Debug\netcoreapp2.2\Fernando.TesteCouchBase.IoC.pdb
