@@ -7,3 +7,12 @@ C:\Users\ferncru\source\repos\Fernando.TesteCouchBase\Fernando.TesteCouchBase.Do
 C:\Users\ferncru\source\repos\Fernando.TesteCouchBase\Fernando.TesteCouchBase.Domain\obj\Debug\netcoreapp2.2\Fernando.TesteCouchBase.Domain.AssemblyInfo.cs
 C:\Users\ferncru\source\repos\Fernando.TesteCouchBase\Fernando.TesteCouchBase.Domain\obj\Debug\netcoreapp2.2\Fernando.TesteCouchBase.Domain.dll
 C:\Users\ferncru\source\repos\Fernando.TesteCouchBase\Fernando.TesteCouchBase.Domain\obj\Debug\netcoreapp2.2\Fernando.TesteCouchBase.Domain.pdb
+C:\GIT\CouchBase\Fernando.TesteCouchBase.Domain\bin\Debug\netcoreapp2.2\Fernando.TesteCouchBase.Domain.deps.json
+C:\GIT\CouchBase\Fernando.TesteCouchBase.Domain\bin\Debug\netcoreapp2.2\Fernando.TesteCouchBase.Domain.dll
+C:\GIT\CouchBase\Fernando.TesteCouchBase.Domain\bin\Debug\netcoreapp2.2\Fernando.TesteCouchBase.Domain.pdb
+C:\GIT\CouchBase\Fernando.TesteCouchBase.Domain\obj\Debug\netcoreapp2.2\Fernando.TesteCouchBase.Domain.csprojAssemblyReference.cache
+C:\GIT\CouchBase\Fernando.TesteCouchBase.Domain\obj\Debug\netcoreapp2.2\Fernando.TesteCouchBase.Domain.csproj.CoreCompileInputs.cache
+C:\GIT\CouchBase\Fernando.TesteCouchBase.Domain\obj\Debug\netcoreapp2.2\Fernando.TesteCouchBase.Domain.AssemblyInfoInputs.cache
+C:\GIT\CouchBase\Fernando.TesteCouchBase.Domain\obj\Debug\netcoreapp2.2\Fernando.TesteCouchBase.Domain.AssemblyInfo.cs
+C:\GIT\CouchBase\Fernando.TesteCouchBase.Domain\obj\Debug\netcoreapp2.2\Fernando.TesteCouchBase.Domain.dll
+C:\GIT\CouchBase\Fernando.TesteCouchBase.Domain\obj\Debug\netcoreapp2.2\Fernando.TesteCouchBase.Domain.pdb

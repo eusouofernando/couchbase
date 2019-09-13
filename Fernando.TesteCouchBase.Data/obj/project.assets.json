@@ -5908,11 +5908,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ferncru\\source\\repos\\Fernando.TesteCouchBase\\Fernando.TesteCouchBase.Data\\Fernando.TesteCouchBase.Data.csproj",
+      "projectUniqueName": "C:\\GIT\\CouchBase\\Fernando.TesteCouchBase.Data\\Fernando.TesteCouchBase.Data.csproj",
       "projectName": "Fernando.TesteCouchBase.Data",
-      "projectPath": "C:\\Users\\ferncru\\source\\repos\\Fernando.TesteCouchBase\\Fernando.TesteCouchBase.Data\\Fernando.TesteCouchBase.Data.csproj",
+      "projectPath": "C:\\GIT\\CouchBase\\Fernando.TesteCouchBase.Data\\Fernando.TesteCouchBase.Data.csproj",
       "packagesPath": "C:\\Users\\ferncru\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ferncru\\source\\repos\\Fernando.TesteCouchBase\\Fernando.TesteCouchBase.Data\\obj\\",
+      "outputPath": "C:\\GIT\\CouchBase\\Fernando.TesteCouchBase.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5930,8 +5930,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\ferncru\\source\\repos\\Fernando.TesteCouchBase\\Fernando.TesteCouchBase.Domain\\Fernando.TesteCouchBase.Domain.csproj": {
-              "projectPath": "C:\\Users\\ferncru\\source\\repos\\Fernando.TesteCouchBase\\Fernando.TesteCouchBase.Domain\\Fernando.TesteCouchBase.Domain.csproj"
+            "C:\\GIT\\CouchBase\\Fernando.TesteCouchBase.Domain\\Fernando.TesteCouchBase.Domain.csproj": {
+              "projectPath": "C:\\GIT\\CouchBase\\Fernando.TesteCouchBase.Domain\\Fernando.TesteCouchBase.Domain.csproj"
             }
           }
         }

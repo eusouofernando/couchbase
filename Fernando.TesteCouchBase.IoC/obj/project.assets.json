@@ -5927,11 +5927,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ferncru\\source\\repos\\Fernando.TesteCouchBase\\Fernando.TesteCouchBase.IoC\\Fernando.TesteCouchBase.IoC.csproj",
+      "projectUniqueName": "C:\\GIT\\CouchBase\\Fernando.TesteCouchBase.IoC\\Fernando.TesteCouchBase.IoC.csproj",
       "projectName": "Fernando.TesteCouchBase.IoC",
-      "projectPath": "C:\\Users\\ferncru\\source\\repos\\Fernando.TesteCouchBase\\Fernando.TesteCouchBase.IoC\\Fernando.TesteCouchBase.IoC.csproj",
+      "projectPath": "C:\\GIT\\CouchBase\\Fernando.TesteCouchBase.IoC\\Fernando.TesteCouchBase.IoC.csproj",
       "packagesPath": "C:\\Users\\ferncru\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ferncru\\source\\repos\\Fernando.TesteCouchBase\\Fernando.TesteCouchBase.IoC\\obj\\",
+      "outputPath": "C:\\GIT\\CouchBase\\Fernando.TesteCouchBase.IoC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5949,11 +5949,11 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\ferncru\\source\\repos\\Fernando.TesteCouchBase\\Fernando.TesteCouchBase.Data\\Fernando.TesteCouchBase.Data.csproj": {
-              "projectPath": "C:\\Users\\ferncru\\source\\repos\\Fernando.TesteCouchBase\\Fernando.TesteCouchBase.Data\\Fernando.TesteCouchBase.Data.csproj"
+            "C:\\GIT\\CouchBase\\Fernando.TesteCouchBase.Data\\Fernando.TesteCouchBase.Data.csproj": {
+              "projectPath": "C:\\GIT\\CouchBase\\Fernando.TesteCouchBase.Data\\Fernando.TesteCouchBase.Data.csproj"
             },
-            "C:\\Users\\ferncru\\source\\repos\\Fernando.TesteCouchBase\\Fernando.TesteCouchBase.Domain\\Fernando.TesteCouchBase.Domain.csproj": {
-              "projectPath": "C:\\Users\\ferncru\\source\\repos\\Fernando.TesteCouchBase\\Fernando.TesteCouchBase.Domain\\Fernando.TesteCouchBase.Domain.csproj"
+            "C:\\GIT\\CouchBase\\Fernando.TesteCouchBase.Domain\\Fernando.TesteCouchBase.Domain.csproj": {
+              "projectPath": "C:\\GIT\\CouchBase\\Fernando.TesteCouchBase.Domain\\Fernando.TesteCouchBase.Domain.csproj"
             }
           }
         }

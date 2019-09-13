@@ -12740,11 +12740,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ferncru\\source\\repos\\Fernando.TesteCouchBase\\Fernando.TesteCouchBase.API\\Fernando.TesteCouchBase.API.csproj",
+      "projectUniqueName": "C:\\GIT\\CouchBase\\Fernando.TesteCouchBase.API\\Fernando.TesteCouchBase.API.csproj",
       "projectName": "Fernando.TesteCouchBase.API",
-      "projectPath": "C:\\Users\\ferncru\\source\\repos\\Fernando.TesteCouchBase\\Fernando.TesteCouchBase.API\\Fernando.TesteCouchBase.API.csproj",
+      "projectPath": "C:\\GIT\\CouchBase\\Fernando.TesteCouchBase.API\\Fernando.TesteCouchBase.API.csproj",
       "packagesPath": "C:\\Users\\ferncru\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ferncru\\source\\repos\\Fernando.TesteCouchBase\\Fernando.TesteCouchBase.API\\obj\\",
+      "outputPath": "C:\\GIT\\CouchBase\\Fernando.TesteCouchBase.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12762,14 +12762,14 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\ferncru\\source\\repos\\Fernando.TesteCouchBase\\Fernando.TesteCouchBase.Data\\Fernando.TesteCouchBase.Data.csproj": {
-              "projectPath": "C:\\Users\\ferncru\\source\\repos\\Fernando.TesteCouchBase\\Fernando.TesteCouchBase.Data\\Fernando.TesteCouchBase.Data.csproj"
+            "C:\\GIT\\CouchBase\\Fernando.TesteCouchBase.Data\\Fernando.TesteCouchBase.Data.csproj": {
+              "projectPath": "C:\\GIT\\CouchBase\\Fernando.TesteCouchBase.Data\\Fernando.TesteCouchBase.Data.csproj"
             },
-            "C:\\Users\\ferncru\\source\\repos\\Fernando.TesteCouchBase\\Fernando.TesteCouchBase.Domain\\Fernando.TesteCouchBase.Domain.csproj": {
-              "projectPath": "C:\\Users\\ferncru\\source\\repos\\Fernando.TesteCouchBase\\Fernando.TesteCouchBase.Domain\\Fernando.TesteCouchBase.Domain.csproj"
+            "C:\\GIT\\CouchBase\\Fernando.TesteCouchBase.Domain\\Fernando.TesteCouchBase.Domain.csproj": {
+              "projectPath": "C:\\GIT\\CouchBase\\Fernando.TesteCouchBase.Domain\\Fernando.TesteCouchBase.Domain.csproj"
             },
-            "C:\\Users\\ferncru\\source\\repos\\Fernando.TesteCouchBase\\Fernando.TesteCouchBase.IoC\\Fernando.TesteCouchBase.IoC.csproj": {
-              "projectPath": "C:\\Users\\ferncru\\source\\repos\\Fernando.TesteCouchBase\\Fernando.TesteCouchBase.IoC\\Fernando.TesteCouchBase.IoC.csproj"
+            "C:\\GIT\\CouchBase\\Fernando.TesteCouchBase.IoC\\Fernando.TesteCouchBase.IoC.csproj": {
+              "projectPath": "C:\\GIT\\CouchBase\\Fernando.TesteCouchBase.IoC\\Fernando.TesteCouchBase.IoC.csproj"
             }
           }
         }

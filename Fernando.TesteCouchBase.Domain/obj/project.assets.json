@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ferncru\\source\\repos\\Fernando.TesteCouchBase\\Fernando.TesteCouchBase.Domain\\Fernando.TesteCouchBase.Domain.csproj",
+      "projectUniqueName": "C:\\GIT\\CouchBase\\Fernando.TesteCouchBase.Domain\\Fernando.TesteCouchBase.Domain.csproj",
       "projectName": "Fernando.TesteCouchBase.Domain",
-      "projectPath": "C:\\Users\\ferncru\\source\\repos\\Fernando.TesteCouchBase\\Fernando.TesteCouchBase.Domain\\Fernando.TesteCouchBase.Domain.csproj",
+      "projectPath": "C:\\GIT\\CouchBase\\Fernando.TesteCouchBase.Domain\\Fernando.TesteCouchBase.Domain.csproj",
       "packagesPath": "C:\\Users\\ferncru\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ferncru\\source\\repos\\Fernando.TesteCouchBase\\Fernando.TesteCouchBase.Domain\\obj\\",
+      "outputPath": "C:\\GIT\\CouchBase\\Fernando.TesteCouchBase.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
